@@ -9,7 +9,7 @@ Two pipelines run in sequence and their results are merged:
 1. **N-gram matching** — tokenises both texts with medieval Latin normalisation (`v→u`, `j→i`) and looks for shared word sequences. Fast, free, and precise for direct quotation.
 2. **LLM via OpenRouter** — sends each section to a language model and asks it to identify paraphrases and thematic echoes that the n-gram pass would miss. Results are verified back against the Vulgate before being kept.
 
-Running `--skip-llm` gives the n-gram baseline (66 hits across the four works).
+Running `--skip-llm` gives the n-gram baseline (66 hits across the four works). The committed results were produced using `openai/gpt-oss-120b` as the LLM worker.
 
 ## Requirements
 
@@ -54,6 +54,7 @@ Results go to `results/`:
 | File | Contents |
 |---|---|
 | `allusions.csv` | One row per allusion: Anselm work, section, Vulgate reference, matched text, method, confidence |
+| `allusions_cleaned.csv` | Manually reviewed version of `allusions.csv`, further cleaned using Claude Sonnet 4.6 |
 | `allusions_report.txt` | Summary statistics: counts by work, biblical book, allusion type |
 | `llm_cache.json` | Cached LLM responses (committed for reproducibility) |
 
@@ -69,6 +70,7 @@ data/
   Responsio.txt
 results/
   allusions.csv
+  allusions_cleaned.csv
   allusions_report.txt
   llm_cache.json
 ```
