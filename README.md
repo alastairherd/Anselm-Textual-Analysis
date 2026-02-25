@@ -1,0 +1,79 @@
+# Biblical Allusion Detector — Anselm of Canterbury
+
+Detects direct quotes, paraphrases, and thematic echoes of the Latin Vulgate in Anselm's philosophical works (*Monologion*, *Proslogion*, *Pro insipiente*, *Responsio*).
+
+## How it works
+
+Two pipelines run in sequence and their results are merged:
+
+1. **N-gram matching** — tokenises both texts with medieval Latin normalisation (`v→u`, `j→i`) and looks for shared word sequences. Fast, free, and precise for direct quotation.
+2. **LLM via OpenRouter** — sends each section to a language model and asks it to identify paraphrases and thematic echoes that the n-gram pass would miss. Results are verified back against the Vulgate before being kept.
+
+Running `--skip-llm` gives the n-gram baseline (66 hits across the four works).
+
+## Requirements
+
+Python 3.9+ with no third-party dependencies. An [OpenRouter](https://openrouter.ai/) API key is needed for the LLM pipeline.
+
+## Usage
+
+```bash
+# N-gram only — free, no API key needed
+python detect_allusions.py --skip-llm
+
+# Full run (n-gram + LLM)
+export OPENROUTER_API_KEY="sk-or-..."
+python detect_allusions.py
+
+# Choose models
+python detect_allusions.py --model deepseek/deepseek-chat-v3-0324
+python detect_allusions.py --models deepseek/deepseek-chat-v3-0324 openai/gpt-4o-mini
+
+# Specific works only
+python detect_allusions.py --skip-llm --files Proslogion Pro_insipiente
+
+# All options
+python detect_allusions.py --help
+```
+
+Key flags:
+
+| Flag | Description |
+|---|---|
+| `--skip-llm` | N-gram pipeline only |
+| `--skip-ngram` | LLM pipeline only |
+| `--min-confidence high\|medium\|low` | Filter LLM results by confidence (default: `high`) |
+| `--no-cache` | Ignore cached LLM responses and re-query |
+| `--output-dir DIR` | Output directory (default: `results/`) |
+| `--vulgate PATH` | Path to Vulgate JSON (default: `data/vulgate.json`) |
+
+## Output
+
+Results go to `results/`:
+
+| File | Contents |
+|---|---|
+| `allusions.csv` | One row per allusion: Anselm work, section, Vulgate reference, matched text, method, confidence |
+| `allusions_report.txt` | Summary statistics: counts by work, biblical book, allusion type |
+| `llm_cache.json` | Cached LLM responses (committed for reproducibility) |
+
+## Project layout
+
+```
+detect_allusions.py
+data/
+  vulgate.json          Latin Vulgate (73 books, 35,811 verses)
+  Monologion.txt
+  Proslogion.txt
+  Pro_insipiente.txt
+  Responsio.txt
+results/
+  allusions.csv
+  allusions_report.txt
+  llm_cache.json
+```
+
+## Data sources
+
+- Vulgate: [emilekm2142/vulgate-bible-full-text](https://github.com/emilekm2142/vulgate-bible-full-text/blob/master/bible.json)
+- Anselm Latin texts: [homepages.uc.edu/~martinj/Latin/Anselm/](https://homepages.uc.edu/~martinj/Latin/Anselm/)

@@ -1,0 +1,763 @@
+SCANNED FROM: S. Anselmi Cantuariensis Archepiscopi
+opera omnia Vol.1, ed. F. S. Schmitt, Edinburgh 1946,
+pp.93-122.
+
+			      ANSELMUS:
+			      PROSLOGION
+
+			      PROOEMIUM
+
+/93/ Postquam opusculum quoddam uelut exemplum meditandi de ratione
+fidei cogentibus me precibus quorundam fratrum in persona alicuius
+tacite secum ratiocinando quae nesciat inuestigantis edidi:
+considerans illud esse multorum concatenatione contextum argumentorum,
+coepi mecum quaerere, si forte posset inueniri unum argumentum, quod
+nullo alio ad se probandum quam se solo indigeret, et solum ad
+astruendum quia deus uere est, et quia est summum bonum nullo alio
+indigens, et quo omnia indigent ut sint et ut bene sint, et quaecumque
+de diuina credimus substantia, sufficeret. Ad quod cum saepe
+studioseque cogitationem conuerterem, atque aliquando mihi uideretur
+iam posse capi quod quaerebam, aliquando mentis aciem omnino fugeret:
+tandem desperans uolui cessare uelut ab inquisitione rei quam inueniri
+esset impossibile. Sed cum illam cogitationem, ne mentem meam frustra
+occupando ab aliis in quibus proficere possem impediret, penitus a me
+uellem excludere: tunc magis ac magis nolenti et defendenti se coepit
+cum importunitate quadam ingerere. Cum igitur quadam die uehementer
+eius importunitati resistendo fatigarer, in ipso cogitationum
+conflictu sic se obtulit quod desperaueram, ut studiose cogitationem
+amplecterer, quam sollicitus repellebam.
+
+Aestimans igitur quod me gaudebam inuenisse, si scriptum esset, alicui
+legenti placiturum: de hoc ipso et de quibusdam aliis sub persona /94/
+conantis erigere mentem suam ad contemplandum deum et quaerentis
+intelligere quod credit, subditum scripsi opusculum. Et quoniam nec
+istud nec illud cuius supra memini dignum libri nomine aut cui
+auctoris praeponeretur nomen indicabam, nec tamen eadem sine aliquo
+titulo, quo aliquem in cuius manus uenirent quodam modo ad se legendum
+inuitarent, dimittenda putabam: unicuique suum dedi titulum, ut prius
+exemplum meditandi de ratione fidei, et sequens fides quaerens
+intellectum diceretur.
+
+Sed cum iam a pluribus cum bis titulis utrumque transcriptum esset,
+coegerunt me plures et maxime reuerendus archiepiscopus Lugdunensis,
+Hugo nomine, fungens in Gallia legatione Apostolica, qui mihi hoc ex
+Apostolica praecepit auctoritate, ut nomen meum illis praescriberem.
+Quod ut aptius fieret, illud quidem Monologion, id est soliloquium,
+istud uero Proslogion, id est alloquium, nominaui.
+
+			       CAPITULA
+
+1.	EXCITATIO MENTIS AD CONTEMPLANDUM DEUM.
+
+2.	QUOD VERE SIT DEUS.
+
+3.	QUOD NON POSSIT COGITARI NON ESSE.
+
+4.	QUOMODO "INSIPIENS DIXIT IN CORDE" QUOD COGITARI NON POTEST.
+
+5.	QUOD DEUS SIT QUIDQUID MELIUS EST ESSE QUAM NON ESSE; ET SOLUS
+	EXISTENS PER SE OMNIA ALIA FACIAT DE NIHILO.
+
+6.	QUOMODO SIT SENSIBILIS, CUM NON SIT CORPUS.
+
+7.	QUOMODO SIT OMNIPOTENS, CUM MULTA NON POSSIT.
+
+8.	QUOMODO SIT MISERICORS ET IMPASSIBILIS.
+
+9.	QUOMODO TOTUS IUSTUS ET SUMME IUSTUS PARCAT MALIS; ET QUOD
+	IUSTE MISEREATUR MALIS.
+
+10.	QUOMODO IUSTE PUNIAT ET IUSTE PARCAT MALIS.
+
+11.	QUOMODO "UNIVERSAE VIAE DOMINI MISERICORDIA ET VERITAS", ET
+	TAMEN "IUSTUS DOMINUS IN OMNIBUS VIIS SUIS".
+
+12.	QUOD DEUS SIT IPSA VITA QUA VIVIT; ET SIC DE SIMILIBUS.
+
+13.	QUOMODO SOLUS SIT INCIRCUMSCRIPTUS ET AETERNUS, CUM ALII
+	SPIRITUS SINT INCIRCUMSCRIPTI ET AETERNI.
+
+14.	QUOMODO ET CUR VIDETUR ET NON UIDETUR DEUS A QUAERENTIBUS EUM.
+
+15.	QUOD MAIOR SIT QUAM COGITARI POSSIT.
+
+16.	QUOD HAEC SIT "LUX INACCESSIBILIS", QUAM "INHABITAT".
+
+17.	QUOD IN DEO SIT HARMONIA, ODOR, SAPOR, LENITAS, PULCHRITUDO,
+	SUO INEFFABILI MODO.
+
+18.	QUOD IN DEO NEC IN AETERNITATE EIUS, QUAE IPSE EST, NULLAE
+	SINT PARTES.
+
+19.	QUOD NON SIT IN LOCO AUT TEMPORE SED OMNIA SINT IN ILLO.
+
+20.	QUOD SIT ANTE ET ULTRA OMNIA ETIAM AETERNA.
+
+21.	AN HOC SIT "SAECULUM SAECULI" SIUE "SAECULA SAECULORUM".
+
+22.	QUOD SOLUS SIT QUOD EST ET QUI EST.
+
+23.	QUOD HOC BONUM SIT PARITER PATER ET FILIUS ET SPIRITUS
+	SANCTUS; ET HOC SIT "UNUM NECESSARIUM", QUOD EST OMNE ET
+	TOTUM ET SOLUM BONUM.
+
+24.	CONIECTATIO QUALE ET QUANTUM SIT HOC BONUM.
+
+25.	QUAE ET QUANTA BONA SINT FRUENTIBUS EO.
+
+26.	AN HOC SIT "GAUDIUM PLENUM" QUOD PROMITTIT DOMINUS.
+
+******************************************************************
+
+			      ANSELMUS:
+			      PROSLOGION
+
+
+	      1. EXCITATIO MENTIS AD CONTEMPLANDUM DEUM.
+
+/97/ Eia nunc, homuncio, fuge paululum occupationes tuas, absconde te
+modicum a tumultuosis cogitationibus tuis. Abice nunc onerosas curas,
+et postpone laboriosas distentiones tuas. Vaca aliquantulum deo, et
+requiesce aliquantulum in eo. "Intra in cubiculum" mentis tuae,
+exclude omnia praeter deum et quae te iuuent ad quaerendum eum, et
+"clauso ostio" quaere eum. Dic nunc, totum "cor meum", dic nunc deo:
+
+	Quaero uultum tuum; uultum tuum, domine, requiro.
+
+/98/ Eia nunc ergo tu, domine deus meus, doce cor meum ubi et quomodo
+te quaerat, ubi et quomodo te inueniat. Domine, si hic non es, ubi te
+quaeram absentem? Si autem ubique es, cur non uideo praesentem? Sed
+certe habitas "lucem inaccessibilem". Et ubi est lux inaccessibilis?
+Aut quomodo accedam ad lucem inaccessibilem? Aut quis me ducet et
+inducet in illam, ut uideam te in illa? Deinde quibus signis, qua
+facie te quaeram? Numquam te uidi, domine deus meus, non noui faciem
+tuam. Quid faciet, altissime domine, quid faciet iste tuns longinquus
+exsul? Quid faciet seruus tuus anxius amore tui et longe proiectus "a
+facie tua"? Anhelat uidere te, et nimis abest illi facies tua.
+Accedere ad te desiderat, et inaccessibilis est habitatio tua.
+Inuenire te cupit, et nescit locum tuum. Quaerere te affectat, et
+ignorat uultum tuum. Domine, deus meus es, et dominus meus es, et
+numquam te uidi. Tu me fecisti et refecisti, et omnia mea bona tu mihi
+contulisti, et nondum noui te. Denique ad te uidendum factus sum, et
+nondum feci propter quod factus sum.
+
+O misera sors hominis, cum hoc perdidit ad quod factus est. O durus et
+dirus casus ille! Heu, quid perdidit et quid inuenit, quid abscessit
+et quid remansit! Perdidit beatitudinem ad quam factus est, et
+inuenit miseriam propter quam factus non est. Abscessit sine quo nihil
+felix est, et remansit quod per se nonnisi miserum est. "Manducabat"
+tunc "homo panem angelorum" quem nunc esurit, manducat nunc "panem
+dolorum", quem tunc nesciebat. Heu publicus luctus hominum,
+uniuersalis planctus filiorum Adae! Ille ructabat saturitate, nos
+suspiramus esurie. Ille abundabat, nos mendicamus. Ille feliciter
+tenebat et misere deseruit, nos infeliciter egemus et miserabiliter
+desideramus, et heu, uacui remanemus. Cur /99/ non nobis custodiuit
+cum facile posses, quo tam grauiter careremus? Quare sic nobis
+obserauit lucem, et obduxit nos tenebris? Ut quid nobis abstulit
+uitam, et inflixit mortem? Aerumnosi, unde sumus expulsi, quo sumus
+impulsi! Unde praecipitati, quo obruti! A patria in exsilium, a
+uisione dei in caecitatem nostram. A iucunditate immortalitatis in
+amaritudinem et horrorem mortis. Misera mutatio! De quanto bono in
+quantum malum! Graue damnum, grauis dolor, graue totum.
+
+Sed heu me miserum, unum de aliis miseris filiis Euae elongatis a deo,
+quid incepi, quid effect? Quo tendebam, quo deueni? Ad quid aspirabam,
+in quibus suspiro? "Quaesiui bona", "et ecce turbatio"! Tendebam in
+deum, et offendi in me ipsum. Requiem quaerebam in secreto meo, et
+"tribulationem et dolorem inuent" in intimis meis. Volebam ridere a
+"audio mentis meae, et cogor rugire "a gemitu cordis mei". Sperabatur
+laetitia, et ecce unde densentur suspiria!
+
+Et o "tu, domine, usquequo"? "Usquequo, domine, obliuisceris" nos,
+"usquequo auertis faciem tuam" a nobis? Quando respicies et exaudies
+nos? Quando illuminabis oculos nostros, et ostendes nobis "faciem
+tuam"? Quando restitues te nobis? Respice, domine, exaudi, illumine
+nos, ostende nobis teipsum. Restitue te nobis, ut bene sit nobis, sine
+quo tam male est nobis. Miserare labores et conatus nostros ad te, qui
+nihil ualemus sine te. Inuitas nos, "adiuua nos". Obsecro, domine, ne
+desperem suspirando sed respirem sperando. Obsecro, domine, amaricatum
+est cor meum sue desolatione, indulca illud tua consolatione. Obsecro,
+domine, esuriens /100/ incepi quaerere te, ne desinam ieiunus de te.
+Famelicus accessi, ne recedam impastus. Pauper ueni ad diuitem, miser
+ad misericordem; ne redeam uacuns et contemptus. Et si "antequam
+comedam suspiro", da uel post suspiria quod comedam. Domine,
+incuruatus non possum nisi deorsum aspicere, erige me ut possim sursum
+intendere. "Iniquitates meae supergressae caput meum" obuoluunt me,
+"et sicut onus graue" grauant me. Euolue me, exonera me, ne "urgeat
+puteus" earum "os soum super me". Liceat mihi suspicere lucem tuam,
+uel de longe, uel de profundo, Doce me quaerere te, et ostende te
+quaerenti; quia nec quaerere te possum nisi tu doceas, nec inuenire
+nisi te ostendas. Quaeram te desiderando, desiderem quaerendo.
+Inueniam amando, amem inueniendo.
+
+Fateor, domine, et gratias ago, quia creasti in me hanc imaginem tuam,
+ut tui memor te cogitem, te amem. Sed sic est abolita attritione
+uitiorum, sic est offuscata fumo peccatorum, ut non possit facere ad
+quod facta est, nisi tu renoues et reformes eam. Non tento, domine,
+penetrare altitudinem tuam, quia nullatenus comparo illi intellectum
+meum; sed desidero aliquatenus intelligere ueritatem tuam, quam credit
+et amat cor meum. Neque enim quaero intelligere ut credam sed credo ut
+intelligam. Nam et hoc credo: quia "nisi credidero, non intelligam".
+/101/
+
+			2. QUOD VERE SIT DEUS.
+
+Ergo, domine, qui das fidei intellectum, da mihi, ut quantum scis
+expedire intelligam, quia es sicut credimus, et hoc es quod credimus.
+Et quidem credimus te esse aliquid quo nihil maius cogitari possit. An
+ergo non est aliqua talis natura, quia "dixit insipiens in corde quo:
+non est deus"? Sed certe ipse idem insipiens, cum audit hoc ipsum quod
+dico: 'aliquid quo maius nihil cogitari potest', intelligit quod
+audit; et quod intelligit in intellectu eius est, etiam si non
+intelligat illud esse. Aliud enim est rem esse in intellectu, aliud
+intelligere rem esse. Nam cum pictor praecogitat quae facturus est,
+habet quidem in intellectu sed nondum intelligit esse quod nondum
+fecit. Cum uero iam pinxit, et habet in intellectu et intelligit esse
+quod iam fecit. Conuincitur ergo etiam insipiens esse uel in
+intellectu aliquid quo nihil maius cogitari potest, quia hoc cum audit
+intelligit, et quidquid intelligitur in intellectu est. Et certe id
+quo maius cogitari nequit, non potest esse in solo intellectu. Si enim
+uel in solo intellectu est, potest cogitari esse et in re, quod maius
+est. Si ergo id quo maius cogitari non potest, est in solo intellectu:
+id ipsum quo /102/ maius cogitari non potest, est quo maius cogitari
+potest. Sed certe hoc esse non potest. Existit ergo procul dubio
+aliquid quo maius cogitari non ualet, et in intellectu et in re.
+
+		3. QUOD NON POSSIT COGITARI NON ESSE.
+
+Quod utique sic uere est, ut nec cogitari possit non esse. Nam potest
+cogitari esse aliquid, quod non possit cogitari non esse; quod maius
+est quam quod non esse cogitari potest. Quare si id quo maius nequit
+cogitari, potest cogitari non esse: id ipsum quo maius cogitari
+nequit, non est id quo maius cogitari nequit; quod conuenire non
+potest. /103/ Sic ergo uere est aliquid quo maius cogitari non potest,
+ut nec cogitari possit non esse.
+
+Et hoc es tu, domine deus noster. Sic ergo uere es, domine deus meus,
+ut nec cogitari possis non esse. Et merito. Si enim aliqua mens posses
+cogitare aliquid melius te, ascenderet creatura super creatorem, et
+iudicaret de creatore; quod ualde est absurdum. Et quidem quidquid est
+aliud praeter te solum, potest cogitari non esse. Solus igitur
+uerissime omnium, et ideo maxime omnium haloes esse: quia quidquid
+aliud est non sic uere, et idcirco minus habet esse. Cur itaque "dixit
+insipiens in corde quo: non est deus", cum tam in promptu sit
+rationali menti te maxime omnium esse? Cur, nisi quia stultus et
+insipiens?
+
+4. QUOMODO INSIPIENS DIXIT IN CORDE, QUOD COGITARI NON POTEST.
+
+Verum quomodo dixit in corde quod cogitare non potuit; aut quomodo
+cogitare non potuit quod dixit in corde, cum idem sit dicere in corde
+et cogitare? Quod si uere, immo quia uere et cogitauit quia dixit in
+corde, et non dixit in corde quia cogitare non potuit: non uno tantum
+modo dicitur aliquid in corde uel cogitatur. Aliter enim cogitatur res
+cum uox eam significans cogitatur, aliter cum id ipsum quod res est
+intelligitur. Illo itaque modo potest cogitari deus non esse, isto
+uero minime. Nullus quippe intelligens id quod deus est, potest
+cogitare quia deus non est, /104/ licet haec uerba dicat in corde, aut
+sine ulla aut cum aliqua extranea significatione. Deus enim est id quo
+maius cogitari non potest. Quod qui bene intelligit, utique intelligit
+id ipsum sic esse, ut nec cogitatione queat inon esse. Qui ergo
+intelligit sic esse deum, nequit eum non esse cogitare.
+
+Gratias tibi, bone domine, gratias tibi, quia quod prius credidi te
+donante, iam sic intelligo te illuminante, ut si te esse nolim
+credere, non possim non intelligere.
+
+  5. QUOD DEUS SIT QUIDQUID MELIUS EST ESSE QUAM NON ESSE; ET SOLUS
+	     EXISTENS PER SE OMNIA ALIA FACIAT DE NIHILO.
+
+Quid igitur es, domine deus, quo nil maius ualet cogitari? Sed quid es
+nisi id quod summum omnium solum existens per seipsum, omnia alia
+fecit de nihilo? Quidquid enim hoc non est, minus est quam cogitari
+possit. Sed hoc de te cogitari non potest. Quod ergo bonum deest summo
+bono, per quod est omne bonum? Tu es itaque iustus, uerax, beatus, et
+quidquid melius est esse quam non esse. Melius namque est esse iustum
+quam non iustum, beatum quam non beatum.
+
+	    6. QUOMODO SIT SENSIBILIS, CUM NON SIT CORPUS.
+
+Verum cum melius sit esse sensibilem, omnipotentem, misericordem,
+impassibilem quam non esse: quomodo es sensibilis, si non es corpus;
+aut omnipotens, si omnia non poses; aut misericors simul et
+impassibilis? Nam si sola corporea sunt sensibilia, quondam sensus
+circa corpus et in corpore sunt: quomodo es sensibilis, cum non sis
+corpus sed summus spiritus, qui corpore melior est? /105/
+
+Sed si sentire non nisi cognoscere aut non nisi ad cognoscendum est --
+qui enim sentit cognoscit secundum sensuum proprietatem, ut per uisum
+colores, per gustum sapores --: non inconuenienter dicitur aliquo modo
+sentire, quidquid aliquo modo cognoscit. Ergo domine, quamuis non sis
+corpus, uere tamen eo modo summe sensibilis es, quo summe omnia
+cognoscis, non quo animal corporeo sensu cognoscit.
+
+	   7. QUOMODO SIT OMNIPOTENS, CUM MULTA NON POSSIT.
+
+Sed et omnipotens quamodo es, si omnia non poses? Aut si non poses
+corrumpi nec mentiri nec facere uerum esse falsum, ut quod factum est
+non esse factum, et plura similiter: quomodo poses omnia?
+
+An haec posse non est potentia sed impotentia? Nam qui haec potest,
+quod sibi non expedit et quod non debet potest. Quae quanto magis
+potest, tanto magis aduersitas et peruersitas possum in illum, et ipse
+minus contra illas. Qui ergo sic potest, non potentia potest sed
+impotentia. Non enim ideo dicitur posse, quia ipse possit sed quia sue
+impotentia facit aliud in se posse; siue aliquo alio genere loquendi,
+sicut multa improprie dicuntur. Ut cum ponimus 'esse' pro 'non esse',
+et 'facere' pro eo quod est 'non facere', aut pro 'nihil facere'. Nam
+saepe dicimus ei qui rem aliquam esse negat: sic est quemadmodum dicis
+esse, cum magis proprie uideatur dici: sic non est quemadmodum dicis
+non esse. Item dicimus: iste sedet sicut ille facit, aut: iste
+quiescit sicut ille facit, cum 'sedere' sit quiddam non facere et
+'quiescere' sit nihil facere. Sic itaque cum quis didiur habere
+potentiam faciendi aut patiendi quod dbi non expedit aut quod non
+debet, impotentia intelligitur per potenffam; quia quo plus habet hanc
+potentiam, eo aduersitas et peruersitas in ilium sunt potentiores, et
+ille contra eas impotentior. Ergo domine /106/ deus, inde uerius es
+omnipotens, quia nihil potes per impotentiam, et nihil potest contra
+te.
+
+	      8. QUOMODO SIT MISERICORS ET IMPASSIBILIS.
+
+Sed et misericors simul et impassibilis quomodo es? Nam si es
+impassibilis, non compateris; si non compateris, non est tibi miserum
+cor ex compassione miseri, quod est esse misericordem. At si non es
+misericors, unde miseris est tanta consolatio?
+
+Quomodo ergo es et non es misericors, domine, nisi quia es misericors
+secundum nos, et non es secundum te? Es quippe secundum nostrum
+sensum, et non es secundum tuum. Etenim cum tu respicis nos miseros,
+nos sentimus misericordis effectum, tu non sentis affectum. Et
+misericors es igitur, quia miseros saluas et peccatoribus tuis parcis;
+et misericors non es, quia nulla miseriae compassione afficeris.
+
+ 9. QUOMODO TOTUS IUSTUS ET SUMME IUSTUS PARCAT MALIS; ET QUOD IUSTE
+			  MISEREATUR MALIS.
+
+Verum malis quomodo parcis, si es totus iustus et summe iustus?
+Quomodo enim totus et summe iustus facit aliquid non iustum? Aut quae
+/107/ iustitia est merenti mortem aeternam dare uitam sempiternam?
+Unde ergo, bone deus, bone bonis et malis, unde tibi saluare malos, si
+hoc non est iustum, et tu non facis aliquid non iustum?
+
+An quia bonitas tua est incomprehensibilis, latet hoc in luce
+inaccessibili quam inhabitas? Vere in altissimo et secretissimo
+bonitatis tuae latet fons, unde manat fluuius misericordiae tuae. Nam
+cum totus et summe iustus sis, tamen idcirco etiam malis benignus es,
+quia totus summe bonus es. Minus namque bonus esses, si nulli malo
+esses benignus. Melior est enim qui et bonds et malis bonus est, quam
+qui bonds tantum est bonus. Et melior est qui malis et puniendo et
+parcendo est bonus, quam qui puniendo tantum. Ideo ergo misericors es,
+quia totus et summe bonus es. Et cum forsitan uideatur, cur bonds bona
+et malis male retribuas, illud certe penitus est mirandum, cur tu
+totus iustus et nullo egens malis et reds tuis bona tribuas. O
+altitudo bonitatis tuae, deus! et uidetur unde sis misericors, et non
+peruidetur. Cernitur unde flumen manat, et non perspicitur fons unde
+nascatur. Nam et de plenitudine bonitatis est quia peccatoribus tuis
+plus es, et in altitudine bonitatis latet qua ratione hoc es. Etenim
+licet bonds bona et malis male ex bonitate retribuas, ratio tamen
+iustitiae hoc postulare uidetur. Cum uero malis bona tribuis: et
+scitur quia summe bonus hoc facere uoluit, et mirum est cur summe
+iustus hoc uelle potuit.
+
+O misericordia, de quam opulenta dulcedine et dulci opulentia nobis
+profluis! O immensitas bonitatis dei, quo affectu amanda es
+peccatoribus! Iustos enim saluas iustitia comitante, istos uero
+liberas iustitia damnante. Illos meritis adiuuantibus, istos meritis
+repugnantibus. Illos bona quae dedisti cognoscendo, istos male quae
+odisti ignoscendo. O immense bonitas, quae sic omnem intellectum
+excedis, ueniat super me misericordia /108/ illa, quae de tanta
+opulentia tui procedit! Influat in me, quae profluit de te! Parce per
+clementiam, ne ulciscaris per iustitiam! Nam etsi difficile sit
+intelligere, quomodo misericordia tua non absit a tua iustitia,
+necessarium tamen est credere, quia nequaquam aduersatur iustitiae
+quod exundat ex bonitate, quae nulla est sine iustitia, immo uere
+concordat iustitiae. Nempe si misericors es quia es summe bonus, et
+summe bonus non es nisi quia es summe iustus: uere idcirco es
+misericors, quia summe iustus es. Adiuua me, iuste et misericors deus,
+cuius lucem quaero, adiuua me, ut intelligam quod dico. Vere ergo ideo
+misericors es, quia iustus.
+
+Ergone misericordia tua nascitur ex iustitia tua? Ergone parcis malis
+ex iustitia? Si sic est, domine, si sic est, doce me quomodo est. An
+quia iustum est te sic esse bonum, ut nequeas intelligi melior, et sic
+potenter operari, ut non possis cogitari potentius? Quid enim hoc
+iustius? Hoc utique non fieret, si esses bonus tantum retribuendo et
+non parcendo, et si faceres de non bonds tantum bongs, et non etiam de
+malis. Hoc itaque modo iustum est ut parcas malis, et ut facias bongs
+de malis. Denique quod non iuste fit, non debet fieri; et quod non
+debet fieri, iniuste fit. Si ergo non iuste malis misereris, non debes
+misereri: et si non debes misereri, iniuste misereris. Quod si nefas
+est dicere, fas est credere te iuste misereri malis.
+
+	   10. QUOMODO IUSTE PUNIAT ET IUSTE PARCAT MALIS.
+
+Sed et iustum est, ut malos punias. Quid namque iustius, quam ut bond
+bona et mall male recipient? Quomodo ergo et iustum est ut malos
+punias, et iustum est ut malis parcas?
+
+An alio modo iuste punts malos, et alio modo iuste parcis malis? Cum
+enim punts malos, iustum est, quia illorum meritis conuenit; cum uero
+parcis malis, iustum est, non quia illorum meritis sed quia bonitati
+/109/ tuae condecens est. Nam parcendo malis ita iustus es secundum te
+et non secundum nos, sicut misericors es secundum nos et non secundum
+te. Quoniam saluando nos quos iuste perderes, sicut misericors es non
+quia tu sentias affectum sed quia nos sentimus effectum: ita iustus es
+non quia nobis reddas debitum sed quia facis quod decet te summe
+bonum. Sic itaque sine repugnantia iuste punis et iuste parcis.
+
+11. QUOMODO "UNIVERSAE VIAE DOMINI MISERICORDIA ET VERITAS", ET TAMEN
+		"IUSTUS DOMINUS IN OMNIBUS VIIS SUIS".
+
+Sed numquid etiam non est iustum secundum te, domine, ut malos punias?
+Iustum quippe est te sic esse iustum, ut iustior nequeas cogitari.
+Quod nequaquam esses, si tantum bonis bona, et non malis mala
+redderes. Iustior enim est qui et bonis et malis, quam qui bonis
+tantum merita retribuit. Iustum igitur est secundum te, iuste et
+benigne deus, et cum s punis et cum parcis. Vere igitur "uniuersoe
+uiae domini misericordia et ueritas", et tamen "iustus dominus in
+omnibus uiis suis". Et utique sine repugnantia; quia quos uis punire,
+non est iustum saluari, et quibus uis parcere, non est iustum damnari.
+Nam id solum iustum est quod uis, et non iustum quod non uis. Sic ergo
+nascitur de iustitia tua misericordia tua, quia iustum est te sic esse
+bonum, ut et parcendo sis bonus. Et hoc est forsitan, cur summe iustus
+potest uelle bona malis. Sed si utcumque capi potest, cur malos potes
+uelle saluare: illud certe nulla ratione comprehendi potest, cur de
+similibus malis hos magis salues quam illos per summam bonitatem, et
+illos magis damnes quam istos per summam iustitiam. /110/
+
+Sic ergo uere es sensibilis, omnipotens, misericors et impassibilis,
+quemadmodum uiuens, sapiens, bonus, beatus, aeternus, et quidquid
+melius est esse quam non esse.
+
+     12. QUOD DEUS SIT IPSA VITA QUA VIVIT, ET SIC DE SIMILIBUS.
+
+Sed certe quidquid es, non per aliud es quam per teipsum. Tu es igitur
+ipsa uita qua uiuis, et sapientia qua sapis, et bonitas ipsa qua bonds
+et malis bonus es; et ita de similibus.
+
+13. QUOMODO SOLUS SIT INCIRCUMSCRIPTUS ET AETERNUS, CUM ALII SPIRITUS
+		   SINT INCIRCUMSCRIPTI ET AETERNI.
+
+Sed omne quod clauditur aliquatenus loco aut tempore, minus est ta
+quam quod nulla lex loci aut temporis coercet. Quoniam ergo maius te
+nihil est, nullus locus aut tempus te cohibet sed ubique et semper es.
+Quod quia de te solo dici potest, tu solus incircumscriptus es et
+aeternus. Quomodo igitur dicuntur et alii spiritus incircumscripti et
+aeterni?
+
+Et quidem solus es aeternus, quia solus omnium sicut non desinis, sic
+non incipis esse. Sed solus quomodo es incircumscriptus? An creatus is
+spiritus ad te collatus est circumscriptus, ad corpus uero
+incircumscriptus? Nempe omnino circumscriptum est, quod cum alicubi
+totum est, non potest simul esse alibi; quod de solis corporeis
+cernitur. Incircumscriptum uero, quod simul est ubique totum; quod de
+te solo intelligitur. Circumscriptum autem simul et incircumscriptum
+est, quod cum alicubi sit totum, /111/ potest simul esse totum alibi,
+non tamen ubique; quod de creatis spiritibus cognoscitur. Si enim non
+esset anima tota in singulis membris sui corporis, non sentiret tota
+in singulis. Tu ergo, domine, singulariter es incircumscriptus et
+aeternus, et tamen et alii spiritus sunt incircumscripti et aeterni.
+
+  14. QUOMODO ET CUR UIDETUR ET NON VIDETUR DEUS A QUAERENTIBUS EUM.
+
+An inuenisti, anima mea, quod quaerebas? Quaerebas deum, et inuenisti
+eum esse quiddam summum omnium, quo nihil melius cogitari potest; et
+hoc esse ipsam uitam, lucem, sapientiam, bonitatem, aeternam
+beatitudinem et beatam aeternitatem; et hoc esse ubique et semper. Nam
+si non inuenisti deum tuum: quomodo est ille hoc quod inuenisti, et
+quod ilium tam certa ueritate et uera certitudine intellexisti? Si
+uero inuenisti: quid est, quod non sentis quod inuenisti? Cur non te
+sentit, domine deus, anima mea, si inuenit te?
+
+An non inuenit, quem inuenit esse lucem et ueritatem? Quomodo namque
+intellexit hoc, nisi uidendo lucem et ueritatem? Aut potuit omnino
+aliquid intelligere de te, nisi per "lucem tuam et ueritatem tuam"? Si
+ergo uidit lucem et ueritatem, uidit te. Si non uidit te, non uidit
+lucem nec ueritatem. An et ueritas et lux est quod uidit, et tamen
+nondum te uidit, quia uidit te aliquatenus sed non uidit te sicuti es?
+
+Domine deus meus, formator et reformator meus, dic desideranti animae
+meae, quid aliud es, quam quod uidit, ut pure uideat, quod desiderat.
+Intendit se ut plus uideat, et nihil uidet ultra hoc quod uidit nisi
+tenebras; immo non uidet tenebras, quae nullae sunt in te sed uidet se
+/112/ non plus posse uidere propter tenebras sues. Cur hoc, domine,
+cur hoc? Tenebratur oculus eius infirmitate sua, aut reuerberatur
+fulgore tuo? Sed certe et tenebratur in se, et reuerberatur a te.
+Utique et obscuratur sue breuitate, et obruitur tua immensitate. Vere
+et contrahitur angustia sua, et uincitur amplitudine tua. Quanta
+namque est lux illa, de qua micas omne uerum quod rationali menti
+lucet! Quam ample est illa ueritas, in qua est omne quod uerum est, et
+extra quam non nisi nihil et falsum est! Quam immense est, quae uno
+intuitu uidet quaecumque facta sunt, et a quo et per quem et quomodo
+de nihilo facta suntl Quid puritatis, quid simplicitatis, quid
+certitudinis et splendoris ibi estl Certe plus quam a creatura ualeat
+intelligi.
+
+	       15. QUOD MAIOR SIT QUAM COGITARI POSSIT.
+
+Ergo domine, non solum es quo maius cogitari nequit sed es quiddam
+maius quam cogitari possit. Quoniam namque ualet cogitari esse aliquid
+huiusmodi: si tu non es hoc ipsum, potest cogitari aliquid maius te;
+quod fieri nequit.
+
+	16. QUOD HAEC SIT "LUX INACCESSIBILIS QUAM INHABITAT".
+
+Vere, domine, haec est lux inaccessibilis, in qua habitas. Vere enim
+non est aliud quod hanc penetret, ut ibi te peruideat. Vere ideo hanc
+non uideo, quia nimia mihi est; et tamen quidquid uideo, per illam
+uideo, sicut infirmus oculus quod uidet per lucem solis uidet, quam in
+ipso sole nequit aspicere. Non potest intellectus meus ad illam. Nimis
+fulget, non capit illam, nec suffers oculus animae meae diu intendere
+in illam. Reuerberatur fulgore, uincitur amplitudine, obruitur
+immensitate, confunditur capacitate. O summa et inaccessibilis lux, o
+tota et beata ueritas, quam /113/ longe es a me, qui tam prope tibi
+sum! Quam remote es a conspectu meo, qui sic praesens sum conspectui
+tuo! Ubique es tota praesens, et non te uideo. In te moueor et in te
+sum, et ad te non possum accedere. Intra me et circa me es, et non te
+sentio.
+
+ 17. QUOD IN DEO SIT HARMONIA, ODOR, SAPOR, LENITAS, PULCHRITUDO, SUO
+    INEFFABILI MODO.
+
+Adhuc lates, domine, animam meam in luce et beatitudine tua, et
+idcirco uersatur illa adhuc in tenebris et miseria sua. Circumspicit
+enim, et non uidet pulchritudinem tuam. Aus,cultat, et non audit
+harmoniam tuam. Olfacit, et non percipit odorem tnum. Gustat, et non
+cognoscit saporem taum. Palpat, et non sentit lenitatem tuam. Habes
+enim haec, domine deus, in te tuo ineffabili modo, qui ea dedisti
+rebus a te creatis suo sensibili modo; sed obriguerunt sed
+obstupuerunt sed obstructi sunt sensus animae meae uetusto languore
+peccati.
+
+ 18. QUOD IN DEO NEC IN AETERNITATE EIUS, QUAE IPSE EST, NULLAE SINT
+    PARTES.
+
+Et iterum ecce turbatio, ecce iterum obuiat maeror et luctus quaerenti
+gaudium et laetitiam! Sperabat iam anima mea satietatem, et ecce
+iterum /114/ obruitur egestate! Affectabam iam comedere, et ecce magis
+<inchoo> esurire! Conabar assurgere ad lucem dei, et recidi in
+tenebras meas. Immo non modo cecidi in eas sed sentio me inuolutum in
+eis. Ante cecidi, quam conciperet "me mater mea". Certe in illis
+"conceptus sum", et cum earum obuolutione natus sum. Olim certe in
+illo omnes cecidimus, "in quo omnes" peccauimus. In illo omnes
+perdidimus, qui facile tenebat et male sibi et nobis perdidit, quod
+cum uolumus quaerere nescimus, cum quaerimus non inuenimus, cum
+inuenimus non est quod quaerimus. Adiuua me tu "propter bonitatem
+tuam, domine". "Quaesiui uultum tuum, uultum tuum, domine, requiem; ne
+auertas faciem tuam a me". Releua me de me ad te. Munda, sane, acue,
+"illumine" oculum mentis meae, ut intueatur te. Recolligat uires sues
+anima mea, et toto intellectu iterum intendat in te, domine.
+
+Quid es, domine, quid es, quid te intelliget cor meum? Certe uita es,
+sapientia es, ueritas es, bonitas es, beatitudo es, aeternitas es, et
+omne uerum bonum es. Multa sunt haec, non potest angustus intellectus
+meus tot uno simul intuitu uidere, ut omnibus simul delectetur.
+Quomodo ergo, domine, es omnia haec? An sunt partes tui, aut potius
+unumquodque horum est totum quod es? Nam quidquid partibus est
+iunctum, non est omnino unum sed quodam modo plura et diuersum a
+seipso, et uel actu uel intellectu dissolui potest; quae aliena sunt a
+te quo nihil melius cogitari potest. Nullae igitur partes sunt in te,
+domine, nec es plura sed sic es unum quiddam et idem tibi ipsi, ut in
+nullo tibi ipsi sis dissimilis; immo tu es ipsa unites, nullo
+intellectu diuisibilis. Ergo uita et sapientia et reliqua non sunt
+partes tui sed omnia sunt unum, et unumquodque horum /115/ est totum
+quod es, et quod sunt reliqua omnia. Quoniam ergo nec tu haloes partes
+nec tua aeternitas quae tu es: nusquam et numquam est pars tua aut
+aetemitatis tuae sed ubique totus es, et aeternitas tua tota est
+semper.
+
+     19. QUOD NON SIT IN LOCO AUT TEMPORE SED OMNIA SINT IN ILLO.
+
+Sed si per aeternitatem tuam fuisti et es et eris, et fuisse non est
+futurum esse, et esse non est fuisse uel futurum esse: quomodo
+aeternitas tua tota est semper?
+
+An de aeternitate tua nihil praeterit ut iam non sit, nec aliquid
+futurum est quasi nondum sit? Non ergo fuisti heri aut eris cras sed
+heri et hodie et cras es. Immo nec heri nec hodie nec cras es sed
+simpliciter es extra omne tempus. Nam nihil aliud est heri et hodie et
+cras quam in tempore; tu autem, licet nihil sit sine te, non es tamen
+in loco aut tempore sed omnia sunt in te. Nihil enim te continet sed
+tu confines omnia.
+
+	   20. QUOD SIT ANTE ET ULTRA OMNIA ETIAM AETERNA.
+
+Tu ergo imples et complecteris omnia, tu es ante et ultra omnia. Et
+quidem ante omnia es, quia antequam fierent tu es. Ultra omnia uero
+quomodo es? Qualiter enim es ultra ea quae finem non habebunt?
+
+An quia illa sine te nullatenus esse possum, tu autem nullo modo minus
+es, etiam si illa redeunt in nihilum? Sic enim quodam modo es ultra
+illa. An etiam quia illa cogitari possum habere finem, tu uero
+nequaquam? Nam sic illa quidem habent finem quodam modo, tu uero nullo
+modo. Et certe quod nullo modo habet finem, ultra illud est quod
+aliquo modo finitur. An hoc quoque modo transis omnia etiam aeterna,
+quia tua et illorum aeternitas tota tibi praesens est, cum illa nondum
+habeant de /116/ sua aeternitate quod uenturum est, sicut iam non
+habent quod praeteritum est? Sic quippe semper es ultra illa, cum
+semper ibi sis praesens, seu cum illud semper sit tibi praesens, ad
+quod illa nondum peruenerunt.
+
+     21. AN HOC SIT "SAECULUM SAECULI" SIVE "SAECULA SAECULORUM".
+
+An ergo hoc est "saeculum saeculi" siue "saecula saeculorum"? Sicut
+enim saeculum temporum continet omnia temporalia, sic tua aeternitas
+continet etiam ipsa saecula temporum. Quae saeculum quidem est propter
+indiuisibilem unitatem, saecula uero propter interminabilem
+immensitatem. Et quamuis ita sis magnus, domine, ut omnia sint te
+plena et sint in te: sic tamen es sine omni spatio, ut nec medium nec
+dimidium nec ulla pars sit in te.
+
+	       22. QUOD SOLUS SIT, QUOD EST ET QUI EST.
+
+Tu solus ergo, domine, es quod es, et tu es qui es. Nam quod aliud est
+in toto et aliud in partibus, et in quo aliquid est mutabile, non
+omnino est quod est. Et quod incepit a non esse et potest cogitari non
+esse, et nisi per aliod subsistat redit in non esse; et quod habet
+fuisse quod iam non est, et futurum esse quod nondum est: id non est
+proprie et absolute. Tu uero es quod es, quia quidquid aliquando aut
+aliquo modo es, hoc totus et semper es.
+
+Et tu es qui proprie et simpliciter es, quia nec haloes fuisse aut
+futurum esse sed tantum praesens esse, nec poses cogitari aliquando
+non esse. Et uita es et lux et sapientia et beatitudo et aeternitas et
+multa /117/ huiusmodi bona, et tamen non es nisi unum et summum bonum,
+tu tibi omnino sufficiens, nullo indigens, quo omnia indigent ut sint,
+et ut bene sint.
+
+23. QUOD HOC BONUM SIT PARITER PATER ET FILIUS ET SPIRITUS SANCTUS; ET
+   HOC SIT UNUM NECESSARIUM, QUOD EST OMNE ET TOTUM ET SOLUM BONUM.
+
+Hoc bonum es tu, deus pater; hoc est uerbum tuum, id est filius tuus.
+Etenim non potest aliud quam quod es, aut aliquid maius uel minus te
+esse in uerbo quo te ipsum dicis; quondam uerbum tnum sic est uerum
+quomodo tu uerax, et idcirco est ipsa ueritas sicut tu, non alil quam
+tu; et sic es tu simplex, ut de te non possit nasci aliud quam quod tu
+es. Hoc ipsum est amor unus et communis tibi et filio tuo, id est
+sanctus spiritus ab utroque procedens. Nam idem amor non est impar
+tibi aut filio tuo; quia tantum amas te et ilium, et ille te et
+seipsum, quantus es tu et ille; nec est aliud a te et ab illo quod
+dispar non est tibi et illi; nec de summa simplicitate potest
+procedere aliud quam quod est de quo procedit. Quod autem est singulus
+quisque, hoc est tota trinitas simul, pater et filius et spiritus
+sanctus; quondam singulus quisque non est aliud quam summe simplex
+unites et summe una simplicitas, quae nec multiplicari nec aliud et
+aliud esse potest.
+
+"Porro unum est necessarium". Porro hoc est illud unum necessarium, in
+quo est omne bonum, immo quod est omne et unum et totum et solum
+bonum.
+
+	   24. CONIECTATIO, QUALE ET QUANTUM SIT HOC BONUM.
+
+Excita nunc, anima mea, et erige totum intellectum toum, et cogita
+quantum poses, quale et quantum sit illud bonum. Si enim singula bona
+/118/ delectabilia sunt, cogita intente quam delectabile sit illud
+bonum, quod continet iucunditatem omnium bonorum; et non qualem in
+rebus creatis sumus experti sed tanto differentem quanto differt
+creator a creatura. Si enim bona est uita creata: quam bona est uita
+creatrix? Si iucunda est salus facta: quam iucunda est salus quae
+facit omnem salutem? Si amabilis est sapientia in cognitione rerum
+conditarum: quam amabilis est sapientia quae omnia condidit ex nihilo?
+Denique si multae et magnae delectationes sunt in rebus
+delectabilibus: qualis et quanta delectatio est in illo qui fecit ipsa
+delectabilia?
+
+	     25. QUAE ET QUANTA BONA SINT FRUENTIBUS EO.
+
+O qui hoc bono fruetur: quid illi erit, et quid illi non eritl Certe
+quidquid uolet erit, et quod nolet non erit. Ibi quippe erunt bona
+corporis et animae, qualia "nec oculus uidit nec auris audiuit nec cor
+hominis" cogitauit. Cur ergo per multa uagaris, homuncio, quaerendo
+bona animae tuae et corporis tui? Ama unum bonum, in quo sunt omnia
+bona, et sufficit. Desidera simplex bonum, quod est omne bonum, et
+satis est. Quid enim amas, caro mea, quid desideras, anima mea? Ibi
+est, ibi est quidquid amatis, quidquid desideratis.
+
+Si delectat pulchritudo: "fulgebunt iusti sicut sol". Si uelocitas aut
+fortitudo, aut libertas corporis cui nihil obsistere possit: "erunt
+similes angelis dei", quia "seminatur corpus animale, et surget corpus
+spirituale", potestate utique non natura. Si longa et salubris uita:
+ibi est sana aeternitas et aeterna sanitas, quia "iusti in perpetnum
+uiuent" et "salus iustorum a domino". Si satietas: satiabuntur "cum
+apparuerit gloria" dei. Si ebrietas: /119/ "inebriabuntur ab ubertate
+domus" dei. Si melodia: ibi angelorum chori concinunt sine fine deo.
+Si quaelibet non immunda sed munda uoluptas: "torrente uoluptatis suae
+potabit eos" deus.
+
+Si sapientia: ipsa dei sapientia ostendet eis seipsam. Si amicitia:
+diligent deum plus quam seipsos, et inuicem tamquam seipsos, et deus
+illos plus quam illi seipsos; quia illi illum et se et inuicem per
+illum, et ille se et illos per seipsum. Si concordia: omnibus illis
+erit una uoluntas, quia nulla illis erit nisi sola dei uoluntas. Si
+potestas: omnipotentes erunt suae uoluntatis ut deus suae. Nam sicut
+poterit deus quod uolet per seipsum, ita poterunt illi quod uolent per
+illum; quia sicut illi non aliud uolent quam quod ille, ita ille uolet
+quidquid illi uolent; et quod ille uolet non poterit non esse. Si
+honor et diuitiae: deus suos seruos bonos et fideles supra multa
+constituet, immo "filii dei" et dii "uocabuntur" et erunt; et ubi erit
+filius eius, ibi erunt et illi, "heredes quidem dei, coheredes autem
+Christi". Si uera securitas: certe ita certi erunt numquam et
+nullatenus ista uel potius istud bonum sibi defuturum, sicut certi
+erunt se non sua sponte illud amissuros, nec dilectorem deum illud
+dilectoribus suis inuitis ablaturum, nec aliquid deo potentius inuitos
+deum et illos separaturum. /120/
+
+Gaudium uero quale aut quantum est, ubi tale ac tantum bonum est? Cor
+humanum, cor indigens, cor expertum aerumnas immo obrutum aerumnis:
+quantum gauderes, si his omnibus abundares? Interroga intima tua, si
+capere possint gaudium suum de tanta beatitudine sua. Sed certe si
+quis alius, quem omnino sicut teipsum diligeres, eandem beatitudinem
+haberet, duplicaretur gaudium taum, quia non minus gauderes pro eo
+quam pro teipso. Si uero duo uel tres uel multo plures idipsum
+haberent, tantundem pro singulis quantum pro teipso gauderes, si
+singulos sicut te ipsum amares. Ergo in illa perfecta caritate
+innumerabilium beatorum angelorum et hominum, ubi nullus minus diliget
+alium quam seipsum, non aliter gaudebit quisque pro singulis alIis
+quam pro seipso. Si ergo cor hominis de tanto suo bono uix capiet
+gaudium suum: quomodo capax erit tot et tantorum gaudiorum? Et utique
+quoniam quantum quisque diligit aliquem, tantum de bono eius gaudet:
+sicut in illa perfecta felicitate unusquisque plus amabit sine
+comparatione deum quam se et omnes alios secum, ita plus gaudebit
+absque existimatione de felicitate dei quam de sua et omnium aliorum
+secum. Sed si deum sic diligent toto corde, tota mente, tota anima, ut
+tamen totum cor, tota mens, tota anima non sufficiat dignitati
+dilectionis: profecto sic gaudebunt toto corde, tota mente, tota
+anima, ut totum cor, tota mens, tota anima non sufficiat plenitudini
+gaudii.
+
+       26. AN HOC SIT "GAUDIUM PLENUM", QUOD PROMITTIT DOMINUS.
+
+Deus meus et dominus meus, spes mea et gaudium cordis mei, dic animae
+meae, si hoc est gaudium de quo nobis dicis per filium tuum:
+
+	Petite et accipietis, ut gaudium uestrum sit plenum.
+
+Inueni namque gaudium /121/ quoddam plenum, et plus quam plenum. Pleno
+quippe corde, plena mente, plena anima, pleno toto homine gaudio illo:
+adhuc supra modum supererit gaudium. Non ergo totum illud gaudium
+intrabit in gaudentes sed toti gaudentes intrabunt in gaudium. Dic,
+domine, dic seruo tuo intus in corde quo, si hoc est gaudium, in quod
+intrabunt serui tui, qui intrabunt "in gaudium domini" sui. Sed
+gaudium illud certe quo gaudebunt electi tui, "nec oculus uidit, nec
+auris audiuit, nec in cor hominis ascendit". Nondum ergo dixi aut
+cogitaui, domine, quantum gaudebunt illi beati tui. Utique tantum
+gaudebunt, quantum amabunt; tantum amabunt, quantum cognoscent.
+Quantum te cognoscent, domine, tunc, et quantum te amabunt? Certe "nec
+oculus uidit, nec auris audiuit, nec in cor hominis ascendit" in hac
+uita, quantum te cognoscent et amabunt in illa uita.
+
+Oro, deus, cognoscam te, amem te, ut gaudeam de te. Et si non possum
+in hac uita ad plenum, uel proficiam in dies usque dum ueniat illud ad
+plenum. Proficiat hic in me notitia tui, et ibi fiat plena; crescat
+amor tous, et ibi sit plenus: ut hic gaudium meum sit in spe magnum,
+et ibi sit in re plenum. Domine, per filium toum inbes immo consults
+petere et promittis accipere, "ut gaudium" nostrum "plenum sit". Peto,
+domine, quod consults per admirabilem consiliarium nostrum; accipiam
+quod promittis per ueritatem tuam, "ut gaudium" meum "plenum sit".
+Deus uerax, peto accipiam, "ut gaudium" meum "plenum sit". Meditetur
+interim inde mens mea, loquatur inde lingua mea. Amet illud cor moum,
+sermocinetur os meum. Esuriat illud anima mea, sitiat caro mea,
+desideret tota /122/ substantia mea, donec intrem "in gaudium domini"
+mei, "qui est" trinus et unus deus "benedictus in saecula. Amen".

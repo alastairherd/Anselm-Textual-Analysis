@@ -1,0 +1,103 @@
+======================================================================
+BIBLICAL ALLUSION DETECTION REPORT
+Anselm of Canterbury — Latin Works vs. Latin Vulgate
+======================================================================
+
+Total allusions detected : 66
+Verified against Vulgate : 66
+Unverified (LLM guesses) : 0
+
+By detection method:
+  ngram       : 66
+
+By Anselm work:
+  Proslogion          : 38
+  Monologion          : 25
+  Responsio           : 3
+
+By allusion type:
+  direct_quote        : 66
+
+Allusions by biblical book (top 20):
+  Psalms                       ███████████████████████████████████ 18
+  Romans                       ████████████                        6
+  John                         ████████                            4
+  1 Samuel                     ████████                            4
+  1 Corinthians                ██████                              3
+  Daniel                       ██████                              3
+  Isaiah                       ██████                              3
+  Luke                         ████                                2
+  2 Kings                      ████                                2
+  1 Peter                      ████                                2
+  Matthew                      ████                                2
+  Exodus                       ████                                2
+  1 John                       ████                                2
+  Wisdom                       ██                                  1
+  Ephesians                    ██                                  1
+  Colossians                   ██                                  1
+  Galatians                    ██                                  1
+  Philippians                  ██                                  1
+  Mark                         ██                                  1
+  Acts                         ██                                  1
+
+Top 15 allusions by similarity score:
+----------------------------------------------------------------------
+  [Proslogion §15] John 1:25 (ngram, sim=0.132, direct_quote)
+    Vulgate: Et interrogaverunt eum, et dixerunt ei: Quid ergo baptizas, si tu non es Christus, neque Elias, nequ
+    Anselm:  esse aliquid huiusmodi: si tu non es hoc ipsum, potest
+
+  [Monologion §47] Exodus 35:31 (ngram, sim=0.125, direct_quote)
+    Vulgate: implevitque eum spiritu Dei, sapientia et intelligentia, et scientia et omni doctrina,
+    Anselm:  substantia patris est intelligentia et scientia et sapientia et ueritas, consequenter colligitur qui
+
+  [Responsio §8] Romans 1:20 (ngram, sim=0.108, direct_quote)
+    Vulgate: Invisibilia enim ipsius, a creatura mundi, per ea quae facta sunt, intellecta, conspiciuntur: sempit
+    Anselm:  quia "inuisibilia" dei "a creatura mundi per ea, quae facta sunt, intellecta conspicinntur, sempiter
+
+  [Monologion §14] Colossians 3:11 (ngram, sim=0.096, direct_quote)
+    Vulgate: ubi non est gentilis et Judaeus, circumcisio et praeputium, Barbarus et Scytha, servus et liber: sed
+    Anselm:  est et per omnia et in omnibus. At quondam absurdum
+
+  [Proslogion §2] Psalms 13:1 (ngram, sim=0.092, direct_quote)
+    Vulgate: In finem. Psalmus David. [Dixit insipiens in corde suo: Non est Deus. Corrupti sunt, et abominabiles
+    Anselm:  talis natura, quia "dixit insipiens in corde quo: non est
+
+  [Proslogion §26] 1 Corinthians 2:9 (ngram, sim=0.091, direct_quote)
+    Vulgate: Sed sicut scriptum est: Quod oculus non vidit, nec auris audivit, nec in cor hominis ascendit, quae 
+    Anselm:  tui, "nec oculus uidit, nec auris audiuit, nec in cor hominis ascendit". Nondum ergo dixi aut cogita
+
+  [Monologion §14] Ephesians 4:6 (ngram, sim=0.085, direct_quote)
+    Vulgate: Unus Deus et Pater omnium, qui est super omnes, et per omnia, et in omnibus nobis.
+    Anselm:  Ubique igitur est et per omnia et in omnibus. At quondam absurdum est, ut scilicet, quemadmodum null
+
+  [Proslogion §3] Psalms 13:1 (ngram, sim=0.083, direct_quote)
+    Vulgate: In finem. Psalmus David. [Dixit insipiens in corde suo: Non est Deus. Corrupti sunt, et abominabiles
+    Anselm:  esse. Cur itaque "dixit insipiens in corde quo: non est
+
+  [Proslogion §3] Psalms 52:1 (ngram, sim=0.081, direct_quote)
+    Vulgate: In finem, pro Maeleth intelligentiae David. [Dixit insipiens in corde suo: Non est Deus.
+    Anselm:  esse. Cur itaque "dixit insipiens in corde quo: non est
+
+  [Monologion §35] 2 Kings 20:17 (ngram, sim=0.081, direct_quote)
+    Vulgate: Ecce dies venient, et auferentur omnia quae sunt in domo tua, et quae condiderunt patres tui usque i
+    Anselm:  necessario consequitur, ut omnia quae sunt in illo, eadem et
+
+  [Proslogion §2] Psalms 52:1 (ngram, sim=0.079, direct_quote)
+    Vulgate: In finem, pro Maeleth intelligentiae David. [Dixit insipiens in corde suo: Non est Deus.
+    Anselm:  talis natura, quia "dixit insipiens in corde quo: non est
+
+  [Monologion §35] 1 Samuel 9:19 (ngram, sim=0.077, direct_quote)
+    Vulgate: Et respondit Samuel Sauli, dicens: Ego sum videns: ascende ante me in excelsum, ut comedatis mecum h
+    Anselm:  necessario consequitur, ut omnia quae sunt in illo, eadem et
+
+  [Monologion §36] Romans 1:20 (ngram, sim=0.076, direct_quote)
+    Vulgate: Invisibilia enim ipsius, a creatura mundi, per ea quae facta sunt, intellecta, conspiciuntur: sempit
+    Anselm:  uel quomodo sciat ea quae facta sunt, ab humana scientia
+
+  [Monologion §13] 1 Corinthians 1:28 (ngram, sim=0.075, direct_quote)
+    Vulgate: et ignobilia mundi, et contemptibilia elegit Deus, et ea quae non sunt, ut ea quae sunt destrueret:
+    Anselm:  non potest, nisi ut ea quae sunt facta uigeant per
+
+  [Proslogion §26] John 16:24 (ngram, sim=0.068, direct_quote)
+    Vulgate: Usque modo non petistis quidquam in nomine meo: petite, et accipietis, ut gaudium vestrum sit plenum
+    Anselm:  per filium tuum: Petite et accipietis, ut gaudium uestrum sit plenum. Inueni namque gaudium

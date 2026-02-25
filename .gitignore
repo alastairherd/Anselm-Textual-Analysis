@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / OS
+.~lock.*
+.DS_Store
+
+# Local tooling
+.claude/
